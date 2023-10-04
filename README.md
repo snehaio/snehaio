@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sneha Singh</h1>
-<h3 align="center">A passionate frontend developer, Open Source Contributor, UI/UX Designer and DevOps enthusiast who loves writing, travelling and community work.</h3>
+<h3 align="center">A passionate web developer, Open Source and DevOps enthusiast who loves writing, travelling and community work.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehaio" alt="snehaio" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/snehasingh_27" target="blank"><img src="https://img.shields.io/twitter/follow/snehasingh_27?logo=twitter&style=for-the-badge" alt="snehasingh_27" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development and DevOps**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📝 I regularly write articles on [snehasingh.hashnode.dev](snehasingh.hashnode.dev)
 
-- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, REACT.JS, BOOTSTRAP, JAVA**
+- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, JAVA, PYTHON**
 
 - 📫 How to reach me **snehasingh7395@gmail.com**
 
