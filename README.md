@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [snehasingh.hashnode.dev](snehasingh.hashnode.dev)
 
-- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, JAVA, PYTHON**
+- 💬 Ask me about **HTML5, CSS3, JAVA, PYTHON**
 
 - 📫 How to reach me **snehasingh7395@gmail.com**
 
