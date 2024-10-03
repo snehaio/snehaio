@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [snehasingh.hashnode.dev](snehasingh.hashnode.dev)
 
-- 💬 Ask me about **HTML5, CSS3, JAVA, PYTHON**
-
 - 📫 How to reach me **snehasingh7395@gmail.com**
 
 - ⚡ When not coding/writing, you will probably find me **Reading non-fiction📖, Watching Sci-Fi🚀, Playing ukelele🎻**
@@ -28,10 +26,6 @@
 
 </p>
 
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/snehasingh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="snehasingh" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehaio&show_icons=true&locale=en&layout=compact" alt="snehaio" /></p>
 
