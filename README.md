@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Singh</h1>
-<h3 align="center">A passionate web developer, Open Source and DevOps enthusiast who loves writing, travelling and community work.</h3>
+<h3 align="center">A passionate web developer, Open Source enthusiast who loves writing, travelling and community work.</h3>
 
 
 - 🌱 I’m currently learning **Frontend Development**
@@ -24,8 +24,14 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehaio&show_icons=true&locale=en&layout=compact" alt="snehaio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehaio&show_icons=true&locale=en" alt="snehaio" /></p>
+Check out my work!!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehaio&" alt="snehaio" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snehaio&theme=radical)](https://git.io/streak-stats)
+
+![Sneha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaio&layout=compact&theme=radical)
+
+![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snehaio&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
+
+
+
