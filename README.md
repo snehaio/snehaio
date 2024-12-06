@@ -31,7 +31,5 @@ Check out my work!!
 
 ![Sneha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaio&layout=compact&theme=radical)
 
-![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snehaio&bg_color=17092e&color=9e4c98&line=ff428e&point=a8ffef&area=true&hide_border=true)
-
 
 
