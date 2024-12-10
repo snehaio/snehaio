@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha Singh</h1>
-<h3 align="center">A passionate web developer, Open Source enthusiast who loves writing, travelling and community work.</h3>
+<h3 align="center">A passionate web developer, Open Source and DevOps enthusiast who loves writing, travelling and community work.</h3>
 
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m a **Frontend Developer**
 
 - 📝 I regularly write articles on [snehasingh.hashnode.dev](snehasingh.hashnode.dev)
 
