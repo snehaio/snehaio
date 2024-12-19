@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer, Open Source and DevOps enthusiast who loves writing, travelling and community work.</h3>
 
 
-- 🌱 I’m a **Frontend Developer**
+- 🌱 I’m a **Frontend Developer** 
 
 - 📝 I regularly write articles on [snehasingh.hashnode.dev](snehasingh.hashnode.dev)
 
@@ -23,11 +23,6 @@
 
 </p>
 
-
-
-Check out my work!!
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snehaio&theme=radical)](https://git.io/streak-stats)
 
 ![Sneha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaio&layout=compact&theme=radical)
 
