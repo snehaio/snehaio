@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer, Open Source and DevOps enthusiast who loves writing, travelling and community work.</h3>
 
 
-- 🌱 I’m a **Frontend Developer** 
+
 
 - 📝 I regularly write articles on [snehasingh.hashnode.dev](snehasingh.hashnode.dev)
 
